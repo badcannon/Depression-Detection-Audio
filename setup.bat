@@ -8,3 +8,5 @@ source activate %CD%/python3.6
 
 pip install -r requirements.txt
 
+pause 
+exit
